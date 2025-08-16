@@ -105,7 +105,7 @@ os notebooks deverão estar com os seguintes requisitos mínimos:
 
 ### Exemplo de Notebook Educacional
 
-![Notebook Educacional](https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopping.latampass.latam.com%2Fpt_br%2Fmagazineluiza%2Fnotebook-lenovo-ideapad-1i-intel-core-i5-8gb-ram-ssd-512gb-windows-11-15%2C6%25E2%2580%259D-15iau7%2F2380061&psig=AOvVaw3KL9eNSQuasG8G1Z8HYLQr&ust=1755429505934000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjx89Kaj48DFQAAAAAdAAAAABAL)
+![Notebook Educacional](./imagem/d3f29fdbf3166f802ec159ddabdb358a.webp)
 
 ### Exemplo de Notebook
 
@@ -116,4 +116,3 @@ os notebooks deverão estar com os seguintes requisitos mínimos:
 ![Gráfico de Consumo de Energia](./imagem/grafico_consumo_energia.png)
 
 ---
-
